@@ -13,7 +13,7 @@ Alternatives to [Github Copilot](https://github.com/features/copilot)
 
 ## Code assistents
 
-- [ChatGPT]](https://chat.openai.com/chat) helps in a number of ways
+- [ChatGPT](https://chat.openai.com/chat) helps in a number of ways
   - Ask it to describe a function or lines of code
   - Ask it to refactor a function to make it more readable
   - Ask it to add useful code comments
