@@ -14,10 +14,16 @@ Alternatives to [Github Copilot](https://github.com/features/copilot)
 ## Code assistents
 
 - [ChatGPT](https://chat.openai.com/chat) helps in a number of ways
-  - Ask it to describe a function or lines of code
-  - Ask it to refactor a function to make it more readable
-  - Ask it to add useful code comments
-  - Ask it to generate a migration based on a Typescript type
+  - First drop a function or some code
+    - Ask it to describe a function or lines of code
+    - Ask it to refactor a function to make it more readable
+    - Ask it to add useful code comments
+    - Ask it to write variants of that function (`hexToRgb` will result in `hslToRgb`)
+    - Ask it to write unit tests for the function using Jest, typescript etc
+  - Drop a typescript type
+    - Ask it to write a DB migration with your framework of choice based on the type
+    - Ask it to generate API endpoints in H3, Express or Apollo Server Resolvers
+    - Ask it to write a function outputing that type
   - Ask it to give an example of ... code
 
 ## Image tooling
