@@ -33,6 +33,7 @@ Alternatives to [Github Copilot](https://github.com/features/copilot)
 - [Animated Drawings](https://sketch.metademolab.com/canvas) Easily animate drawings in a few steps
 - [Let's Enhance](https://letsenhance.io/) A more pro tool to upscale images, but not free
 - [Instant Art](https://instantart.io/) Generate images using different models for free
+- [Midjourney](https://midjourney.com/) though not free is one of the best image generation tools out there
 
 ## Royalty free music generation
 
